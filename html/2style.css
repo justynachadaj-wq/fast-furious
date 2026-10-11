@@ -52,7 +52,7 @@ body {
     color: #e50914;
 }
 
-/* Hero */
+/* hero */
 .hero {
     height: 50vh;
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
@@ -65,16 +65,17 @@ body {
 
 .hero h1 {
     font-size: 2.8rem;
-     background: linear-gradient(to right, #ff4b1f, #ff9068);
-    
+
 }
+
+
 
 .hero p {
     font-size: 1.2rem;
     color: #ccc;
 }
 
-/*style sekcji */
+/*style */
 .section {
     padding: 50px 0;
 }
@@ -104,7 +105,7 @@ body {
     border-radius: 8px;
 }
 
-/* Tło */
+/* tło */
 .cards-bg {
     background: linear-gradient(to bottom, #111111, #1c1c1c, #111111);
 }
@@ -117,7 +118,7 @@ body {
     flex-wrap: wrap;
 }
 
-/*karty dla obsady i filmów */
+/*karty obsada i filmy */
 .card {
     background-color: #222;
     border-radius: 8px;
@@ -160,7 +161,7 @@ body {
     color: #bbb;
 }
 
-/* 4. Stopka[cite: 4] */
+/* footer */
 footer {
     background-color: #000;
     text-align: center;
